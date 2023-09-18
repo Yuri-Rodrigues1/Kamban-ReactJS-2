@@ -1,2 +1,2 @@
 # Kamban-ReactJS-2
-Created with CodeSandbox
+Link do projeto [aqui](https://z6scrf.csb.app/)
